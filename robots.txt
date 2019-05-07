@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeesuzieye.bjornrostad.no/sitemap.xml
